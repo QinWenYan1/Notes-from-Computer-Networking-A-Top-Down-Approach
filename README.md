@@ -16,15 +16,8 @@ Welcome to the notes for **Computer Networking: A Top-Down Approach, 7th Edition
 
 ---
 
-## 📝 Notes and Summaries
-
-### Introduction
-[Write notes here for the introduction.]
-
----
-
 ### Chapter 1: Computer Networks and the Internet
-[Write notes here for Chapter 1.]
+[[Write notes here for Chapter 1.]](https://github.com/QinWenYan1/Notes-from-Computer-Networking-A-Top-Down-Approach/tree/main/Chapter1)
 
 ---
 
