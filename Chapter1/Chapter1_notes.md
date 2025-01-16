@@ -1,4 +1,4 @@
-# Chapter 1: [Chapter Title]
+# Chapter 1: Computer Networks and the Internet
 
 ## 📝 Overview
 [Provide a brief summary of the chapter. What is the main focus or topic?]
