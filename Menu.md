@@ -23,7 +23,7 @@ Welcome to the notes for **Computer Networking: A Top-Down Approach, 7th Edition
 
 ---
 
-### Chapter 1: [Chapter 1 Title]
+### Chapter 1: Computer Networks and the Internet
 [Write notes here for Chapter 1.]
 
 ---
