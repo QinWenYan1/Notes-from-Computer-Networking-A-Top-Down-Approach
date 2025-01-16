@@ -1,6 +1,6 @@
-# Book Notes: [Computer Networking: A Top-Down Approach, 7th Edition]
+# Book Notes: Computer Networking: A Top-Down Approach, 7th Edition
 
-Welcome to the notes for **[Computer Networking: A Top-Down Approach, 7th Edition]**! Use the menu below to navigate through the chapters and topics covered in this book.
+Welcome to the notes for **Computer Networking: A Top-Down Approach, 7th Edition**! Use the menu below to navigate through the chapters and topics covered in this book.
 
 ---
 
