@@ -5,7 +5,6 @@ Welcome to the notes for **Computer Networking: A Top-Down Approach, 7th Edition
 ---
 
 ## 📖 Table of Contents
----
 
 ### Chapter 1: Computer Networks and the Internet
 [[Notes for Computer Networks and the Internet]](https://github.com/QinWenYan1/Notes-from-Computer-Networking-A-Top-Down-Approach/tree/main/Chapter1)
