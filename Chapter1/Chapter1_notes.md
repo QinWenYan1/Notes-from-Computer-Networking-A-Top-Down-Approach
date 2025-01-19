@@ -9,7 +9,7 @@
 - Packet switches have two predominent types: **Router**(), and **link-layer switches**.
 - The communication links and packets switch traversed by packets are known as **route** or **path**.
 - End systems access the Internet through **Internet Service Providers (ISPs)** such as local cable, cellular data ISPs.
-- It provides us with varity of network accesses and is managed independently with IP protocol such as mobile wireless network. low-tier ISPs are also interconnected with upper-tier ISPs. 
+- It provides us with varity of network accesses and is managed independently with IP protocol, nameing and address convention etc such as mobile wireless network. low-tier ISPs can also be interconnected with upper-tier ISPs. 
 ---
 
 ## 📚 Important Quotes
