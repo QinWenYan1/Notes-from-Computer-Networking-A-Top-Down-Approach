@@ -1,13 +1,13 @@
 # Chapter 1: Computer Networks and the Internet
 
 ## 📝 Overview
-[Provide a brief summary of the chapter. What is the main focus or topic?]
+What is Internet?
 
 ---
 
 ## 🔑 Key Concepts
-- **Concept 1:** [Description or explanation]
-- **Concept 2:** [Description or explanation]
+- **Concept 1:** Internet is network of communication links, or packet switchs interconnecting end systems and hosts.
+- **Concept 2:** Communication links are made of different types of media such as copper wire and radio spectrum with various transmission rate(bits/seconds).
 - **Concept 3:** [Description or explanation]
 
 ---
