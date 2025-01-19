@@ -1,8 +1,5 @@
 # Chapter 1: Computer Networks and the Internet
 
-## 📝 Overview
-What is Internet?
-
 ---
 
 ## 🔑 Key Concepts
