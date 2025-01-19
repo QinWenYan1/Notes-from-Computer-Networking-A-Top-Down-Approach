@@ -6,8 +6,8 @@ What is Internet?
 ---
 
 ## 🔑 Key Concepts
-- **Concept 1:** Internet is network of communication links, or packet switchs interconnecting end systems and hosts.
-- **Concept 2:** Communication links are made of different types of media such as copper wire and radio spectrum with various transmission rate(bits/seconds).
+- **Concept 1:** **Internet** is network of **communication links, or packet switchs** interconnecting **end systems and hosts**.
+- **Concept 2:** **Communication links** are made of different types of physical media such as copper wire and radio spectrum with various transmission rate(bits/seconds).
 - **Concept 3:** [Description or explanation]
 
 ---
