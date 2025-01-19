@@ -2,14 +2,18 @@
 
 ---
 
-## 🔑 1.1 A Nuts-and-Bolts Description (Infrastructure based Internet)
+## 🔑 1.1.1 A Nuts-and-Bolts Description (Infrastructure based Internet)
 - **Internet** is network of **communication links, or packet switchs** interconnecting **end systems **and** hosts**.
 - **Communication links** are made of different types of physical media such as copper wire and radio spectrum with various transmission rate(bits/seconds).
 - **Packet switches** receive packet on incoming communication links and forwareds packets on outcoming communication links.
 - Packet switches have two predominent types: **Router**(), and **link-layer switches**.
 - The communication links and packets switch traversed by packets are known as **route** or **path**.
 - End systems access the Internet through **Internet Service Providers (ISPs)** such as local cable, cellular data ISPs.
-- It provides us with varity of network accesses and is managed independently with IP protocol, nameing and address convention etc such as mobile wireless network. low-tier ISPs can also be interconnected with upper-tier ISPs. 
+- It provides us with varity of network accesses and is managed independently with IP protocol, nameing and address convention etc such as mobile wireless network. low-tier ISPs can also be interconnected with upper-tier ISPs.
+- **Internet standards** are developed by the Internet Engineering Task Force(IETF). The IETF standards documents are called **requests for comments** (RFCs). They define  protocols such as TCP, IP, HTTP so that the products we produce can interoperate. 
+---
+## 🔑 1.1.2 Access Networks
+- **Internet** is network of **communication links, or packet switchs** interconnecting **end systems **and** hosts**.
 ---
 
 ## 📚 Important Quotes
