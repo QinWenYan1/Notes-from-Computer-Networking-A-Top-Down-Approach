@@ -22,11 +22,12 @@
 ## 🔑 1.1.3 What Is a Protocol?
 - All activity in the internet involving two or more communicating remote entities is governed by a protocol. 
 - A **Protocol** define the format and the order of message exchanged by two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message or other event.
-![Protocol example](https://github.com/user-attachments/assets/69da8542-6a12-4cbc-b74e-e2d582c87a70?width=100)
+![Protocol example](https://github.com/user-attachments/assets/69da8542-6a12-4cbc-b74e-e2d582c87a70?width=50)
 ---
 ## 🔑 1.2.1 Access Networks
 - Host can be referred to end system, and the host could be divided into two categories:**clients** and **servers**.
-- Clients tend to be desktop and mobile PCs, smartphone etc. Servers tend to be more powerful machine that store and distribute Web pages reside in large **data centers**.   
+- Clients tend to be desktop and mobile PCs, smartphone etc. Servers tend to be more powerful machine that store and distribute Web pages reside in large **data centers**.
+- **Access network** is the network physically connects an end system to the first router(edge router) on the path from the end system to other distant end system. 
 ---
 
 ## 📚 Important Quotes
