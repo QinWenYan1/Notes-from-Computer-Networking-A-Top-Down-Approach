@@ -1,4 +1,4 @@
-# Chapter 1 - Section 1, 2: Internet && Networks
+# Chapter 1.1 && 1.2: Introduction to Internet && Protocol && Networks
 ---
 
 ## 🔑 1.1.1 What is Internet: An Infrastructure Description
